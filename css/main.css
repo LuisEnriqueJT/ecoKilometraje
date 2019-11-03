@@ -1,0 +1,19 @@
+.encabezado{
+	background-color: white;
+	height: auto;
+	color: black;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+.titulo{
+	font-family: 'Big Shoulders Display', cursive;
+	text-align: center;
+}
+
+body{
+	background-image: url("https://cdn.pixabay.com/photo/2016/02/03/09/58/background-1176764_960_720.jpg");
+	color: white;
+}
